@@ -1,0 +1,23 @@
+{
+  "name": "markdown-webpage",
+  "version": "1.0.0",
+  "description": "Creating a sample webpage using Markdown following https://github.com/oscarmorrison/md-page/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digracesion/markdown-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digracesion/markdown-webpage/issues"
+  },
+  "homepage": "https://github.com/digracesion/markdown-webpage#readme",
+  "dependencies": {
+    "showdown": "^2.1.0"
+  }
+}
